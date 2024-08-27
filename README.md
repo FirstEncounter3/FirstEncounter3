@@ -22,6 +22,15 @@ I'm a Fullstack Web Developer
  - In my free time, I also don’t stop studying: I read books, make my own new projects, and support old ones. :orange_book:
  - And I also love to cook! :pizza:
 
+
+### :mag_right: Participated in :
+ - Wrote unit tests for API application that provide work with gift certificates (gift cards) and provide СRUD methods for processing certificates :credit_card:
+ - Participated in the refinement of the application for processing tickets, namely added the client part of the search field (search, clearing the input field) using Vue in the frontend part and Bootstrap :bulb:
+ - Creating a small telegram bot to format the ZHS'ON into a human-readable form :dependabot:
+ - Desktop application for receiving receipts from the cloud and convenient processing :cloud:
+ - A small web application for generating various JSON to test the API or check user cases. For example, the original application supports a number of document sending variations: sale, credit transfer, credit payment, prepayment, advance payment :paperclip:
+ - Django app for watching videos within a local network on any device :tv:
+
  ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -45,6 +54,10 @@ I'm a Fullstack Web Developer
     title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg"
     title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"
+    title="GNU/Linux" alt="GNU/Linux" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg"
+    title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
 </div>
 
 ---

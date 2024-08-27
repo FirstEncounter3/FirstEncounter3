@@ -26,7 +26,7 @@ I'm a Fullstack Web Developer
 ### :mag_right: Participated in :
  - Wrote unit tests for API application that provide work with gift certificates (gift cards) and provide СRUD methods for processing certificates :credit_card:
  - Participated in the refinement of the application for processing tickets, namely added the client part of the search field (search, clearing the input field) using Vue in the frontend part and Bootstrap :bulb:
- - Creating a small telegram bot to format the ZHS'ON into a human-readable form :dependabot:
+ - Creating a small telegram bot to format the JSON into a human-readable form :dependabot:
  - Desktop application for receiving receipts from the cloud and convenient processing :cloud:
  - A small web application for generating various JSON to test the API or check user cases. For example, the original application supports a number of document sending variations: sale, credit transfer, credit payment, prepayment, advance payment :paperclip:
  - Django app for watching videos within a local network on any device :tv:

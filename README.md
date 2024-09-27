@@ -35,29 +35,29 @@ I'm a Fullstack Web Developer
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"
-    title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    title="Python" alt="Python" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg"
-    title="Qt" alt="Qt" width="40" height="40"/>&nbsp;
+    title="Qt" alt="Qt" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-plain-wordmark.svg"
-    title="Pytest" alt="Pytest" width="40" height="40"/>&nbsp;
+    title="Pytest" alt="Pytest" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg"
-    title="Django" alt="Django" width="40" height="40"/>&nbsp;
+    title="Django" alt="Django" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
-    title="JS" alt="JS" width="40" height="40"/>&nbsp;
+    title="JS" alt="JS" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"
-    title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+    title="HTML" alt="HTML" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"
-    title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+    title="CSS" alt="CSS" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg"
-    title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
+    title="GIT" alt="GIT" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg"
-    title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+    title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"
-    title="GNU/Linux" alt="GNU/Linux" width="40" height="40"/>&nbsp;
+    title="GNU/Linux" alt="GNU/Linux" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg"
-    title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
+    title="SQLite" alt="SQLite" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg"
     title="FastAPI" alt="FastAPI" width="60" height=60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"

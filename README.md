@@ -58,6 +58,10 @@ I'm a Fullstack Web Developer
     title="GNU/Linux" alt="GNU/Linux" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg"
     title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg"
+    title="FastAPI" alt="FastAPI" width="40" height=40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
+    title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 </div>
 
 ---

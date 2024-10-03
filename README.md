@@ -1,6 +1,3 @@
-<div id="header" align="center">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTczZ2c2Y2l3OWtmdnBkOXV2cGt2emNteG1ia2Y3bG1peHA2ODA3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zbWhAgfHFopXmO8O00/giphy.gif" width="200"/>
-</div>
 <div id="counter" align="center">
     <img src="https://komarev.com/ghpvc/?username=FirstEncounter3&style=flat-square&color=blue" alt=""/>
 </div>
@@ -8,11 +5,6 @@
   Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div align="center">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmJnMHdtNGp2aTZ1MXkzOGtyMWE2NzM0YmR4cnExZnI4c3J1am9kaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4UzW8S83pWoKs/giphy.gif" width="600" height="300">
-</div>
-
----
 
 ### :man_technologist: About Me :
 I'm a Fullstack Web Developer
